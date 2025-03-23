@@ -21,7 +21,7 @@ This project analyzes e-commerce sales data using **Big Data technologies** like
 
 ### 🚀 How to Run
 1. Clone this repo: git clone https://github.com/YOUR_USERNAME/E-Commerce-Sales-Analysis.git
-2. 2. Run `pyspark_data_processing.py` to process data.  
+2. Run `pyspark_data_processing.py` to process data.  
 3. Load `sql_queries.sql` into your SQL database.  
 4. Open `PowerBI_Dashboard.pbix` in Power BI.  
 
